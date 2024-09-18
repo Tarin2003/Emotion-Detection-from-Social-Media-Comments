@@ -1,4 +1,4 @@
-# Emotion-Detection-from-Social-Media-Comments
+# Emotion Detection from Social Media Comments
 
 Emotion detection based on text, which includes the following steps:
 
